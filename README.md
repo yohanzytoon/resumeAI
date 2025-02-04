@@ -38,8 +38,8 @@ Career Compass is an AI-powered resume optimization tool that helps job seekers 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your-repository-url.git
-   cd your-repository-directory
+   git clone https://github.com/yohanzytoon/resumeAI.git
+   cd resumeAI
    ```
 
 2. **Create a Conda Environment:**
