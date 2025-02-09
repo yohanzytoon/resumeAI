@@ -108,12 +108,4 @@ Once the application is running, use the sidebar to upload your resume and job d
 - **OpenAI API Errors:**  
   The app includes retry logic for transient errors. If you continue to experience issues, verify your API key and review your OpenAI account usage/quota.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- OpenAI for providing powerful language models and APIs.
-- The developers of Streamlit, PyMuPDF, python-docx, NumPy, scikit-learn, tiktoken, and tenacity for their excellent tools and libraries.
 
